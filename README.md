@@ -14,3 +14,5 @@ Welcome to my note taking application! This is an application where a user is ab
 ## Links
 * [Deployed Live](https://jmg5369.github.io/Note-Taker/)
 * [Github](https://github.com/jmg5369/Note-Taker)
+
+Created by: J. Maxwell Gorodesky
