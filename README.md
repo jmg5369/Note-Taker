@@ -4,7 +4,7 @@
 
 ## Description
 
-Welcome to my note taking application! This is an application where a user is able to store any notes they may want to take in local storage to easily visit them later. Try it out and please let me know what you think! 
+Welcome to my note taking application. This is an application where a user is able to store any notes they may want to take in local storage to easily visit them later. Try it out and please let me know what you think! 
 
 ---
 
